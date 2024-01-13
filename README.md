@@ -1,0 +1,1 @@
+# imac-g3-233mhz-OpenBSD
