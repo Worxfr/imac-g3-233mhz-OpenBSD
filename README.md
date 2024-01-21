@@ -1,4 +1,4 @@
-# imac-g3-266mhz-OpenBSD
+# imac-g3-266mhz
 
 I'm installing OpenBSD on an old Imac G3 266Mhz !!
 
